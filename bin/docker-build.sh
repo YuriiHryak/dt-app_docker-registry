@@ -1,0 +1,1 @@
+docker build -t deploy-today/dt-app_docker-registry .
