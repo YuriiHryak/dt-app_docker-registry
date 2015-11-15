@@ -14,4 +14,4 @@ COPY . /src
 
 EXPOSE  8080
 
-CMD ["node", "/src/index.js"]
+CMD ["node", "/src/bin.js", "--port", "8080"]
