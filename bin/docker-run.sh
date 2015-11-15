@@ -1,1 +1,1 @@
-docker run -p 8080:80 -d deploy-today/dt-app_docker-registry
+docker run -p 8080:8080 -d deploy-today/dt-app_docker-registry
