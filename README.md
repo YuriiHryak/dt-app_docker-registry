@@ -1,3 +1,3 @@
-# dp-app_docker-registry
+# dt-app_docker-registry
 
 Docker Registry App
